@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.banner{
+   
+    background-image: linear-gradient(rgba(235, 231, 231, 0.628),rgba(225, 248, 237, 0.623)), url(hmm.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+ 
+
+ 
+
+}
+.content h1{
+    
+    font-size: 60px;
+    font-style: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color : #081211;
+    background: transparent;
+}
+.content p{
+    margin: 20px;
+    font-style: italic;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+    text-align: start;
+    background: transparent;
+    
+}
